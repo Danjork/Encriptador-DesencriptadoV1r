@@ -1,0 +1,16 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+
+
+.izquierda{
+  flex:1;
+  background-color: rgb(230, 186, 173);
+  
+}
+.derecha{
+    background-color: white;
+}
